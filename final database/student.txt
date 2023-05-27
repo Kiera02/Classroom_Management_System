@@ -1,0 +1,4 @@
+17242	Tran Minh Hieu	17242@student.vgu.edu.vn	CSE	729346	CSE_DB
+17465	Tran Minh Hoang	17465@student.vgu.edu.vn	MEN	1232321	Network
+17590	Pham Le Hoang Duy	17590@student.vgu.edu.vn	CSE	827493	Database
+18070	Vuong Khanh Linh	18070@student.vgu.edu.vn	CSE	123523	JAVA OOP

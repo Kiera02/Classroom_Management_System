@@ -1,0 +1,3 @@
+1232321	Network	21	Yes	Yes
+123523	JAVA OOP	50	Yes	Yes
+729346	CSE_DB	45	Yes	No

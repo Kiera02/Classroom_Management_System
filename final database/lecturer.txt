@@ -1,0 +1,4 @@
+10369		Christan Rich	rich.christan@vgu.edu.vn	CSE - Database
+123735	Do Duc Tan		tan.do.du@vgu.edu.vn	FY Matlab
+250502	Huynh Trung Hieu	hieu.ht@vgu.edu.vn	CSE
+567432	Pham Le Hoang	le.p.hoang@vgu.edu.vn	MEN

@@ -6,7 +6,7 @@ In this project, we investigate the management functions of the classroom system
 
 ## Members
 - [Trần Minh Hiếu](https://github.com/TrannMinhHieu)
-- [Phạm Lê Hoàng Duy]() 
+- [Phạm Lê Hoàng Duy](https://github.com/hduy2505) 
 - [Phạm Nguyễn Đan Quỳnh](https://github.com/pndquyynh) 
 - [Vương Khánh Linh](https://github.com/Kiera02)
 

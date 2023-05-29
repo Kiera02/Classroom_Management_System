@@ -5,10 +5,10 @@ OOP Java Course - WS2022
 In this project, we investigate the management functions of the classroom system, provide a desktop application supporting users.
 
 ## Members
-- [Trần Minh Hiếu]()
+- [Trần Minh Hiếu](https://github.com/TrannMinhHieu)
 - [Phạm Lê Hoàng Duy]() 
 - [Phạm Nguyễn Đan Quỳnh](https://github.com/pndquyynh) 
-- [Vương Khánh Linh]()
+- [Vương Khánh Linh](https://github.com/Kiera02)
 
 ## References 
 - [Logger (Java Platform SE 7)](https://docs.oracle.com/javase/7/docs/api/java/util/logging/Logger.html)
